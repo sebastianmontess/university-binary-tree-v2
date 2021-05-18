@@ -1,0 +1,13 @@
+C:\Users\junor\source\repos\UniversityBinaryTree-V2\UniversityBinaryTree-V2\bin\Debug\netcoreapp3.1\UniversityBinaryTree-V2.exe
+C:\Users\junor\source\repos\UniversityBinaryTree-V2\UniversityBinaryTree-V2\bin\Debug\netcoreapp3.1\UniversityBinaryTree-V2.deps.json
+C:\Users\junor\source\repos\UniversityBinaryTree-V2\UniversityBinaryTree-V2\bin\Debug\netcoreapp3.1\UniversityBinaryTree-V2.runtimeconfig.json
+C:\Users\junor\source\repos\UniversityBinaryTree-V2\UniversityBinaryTree-V2\bin\Debug\netcoreapp3.1\UniversityBinaryTree-V2.runtimeconfig.dev.json
+C:\Users\junor\source\repos\UniversityBinaryTree-V2\UniversityBinaryTree-V2\bin\Debug\netcoreapp3.1\UniversityBinaryTree-V2.dll
+C:\Users\junor\source\repos\UniversityBinaryTree-V2\UniversityBinaryTree-V2\bin\Debug\netcoreapp3.1\UniversityBinaryTree-V2.pdb
+C:\Users\junor\source\repos\UniversityBinaryTree-V2\UniversityBinaryTree-V2\obj\Debug\netcoreapp3.1\UniversityBinaryTree-V2.csprojAssemblyReference.cache
+C:\Users\junor\source\repos\UniversityBinaryTree-V2\UniversityBinaryTree-V2\obj\Debug\netcoreapp3.1\UniversityBinaryTree-V2.AssemblyInfoInputs.cache
+C:\Users\junor\source\repos\UniversityBinaryTree-V2\UniversityBinaryTree-V2\obj\Debug\netcoreapp3.1\UniversityBinaryTree-V2.AssemblyInfo.cs
+C:\Users\junor\source\repos\UniversityBinaryTree-V2\UniversityBinaryTree-V2\obj\Debug\netcoreapp3.1\UniversityBinaryTree-V2.csproj.CoreCompileInputs.cache
+C:\Users\junor\source\repos\UniversityBinaryTree-V2\UniversityBinaryTree-V2\obj\Debug\netcoreapp3.1\UniversityBinaryTree-V2.dll
+C:\Users\junor\source\repos\UniversityBinaryTree-V2\UniversityBinaryTree-V2\obj\Debug\netcoreapp3.1\UniversityBinaryTree-V2.pdb
+C:\Users\junor\source\repos\UniversityBinaryTree-V2\UniversityBinaryTree-V2\obj\Debug\netcoreapp3.1\UniversityBinaryTree-V2.genruntimeconfig.cache
